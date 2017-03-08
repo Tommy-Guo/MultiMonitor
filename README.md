@@ -5,6 +5,8 @@ MultiMonitor
 
 MultiMonitor is a tool used to generate wallpapers that span across monitors.
 
+----------
+
 Example :
 
 ![MultiMonitor in use](https://i.gyazo.com/f7237369607844ebc1c767673557eeb8.png)
